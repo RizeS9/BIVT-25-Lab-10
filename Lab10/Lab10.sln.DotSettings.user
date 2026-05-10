@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=130036c5_002D65a5_002D4c46_002Db8ca_002Dd648b1e874f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GeneralTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::85550AA9-DA5E-BD60-410D-03AD4FCFF877::net9.0::Lab10Test.Purple.GeneralTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::85550AA9-DA5E-BD60-410D-03AD4FCFF877::net9.0::Lab10Test.Purple.JsonTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::85550AA9-DA5E-BD60-410D-03AD4FCFF877::net9.0::Lab10Test.Purple.PurpleManagerTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::85550AA9-DA5E-BD60-410D-03AD4FCFF877::net9.0::Lab10Test.Purple.TxtTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::85550AA9-DA5E-BD60-410D-03AD4FCFF877::net9.0::Lab10Test.Purple.XmlTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
